@@ -30,6 +30,6 @@ If you'd like to contribute to this repository by adding your own solutions or i
 
 ## Contact
 
-If you have any questions, suggestions, or would like to get in touch with me, please don't hesitate to reach out via [email address] or through my [LinkedIn](https://www.linkedin.com/in/yourprofile) profile.
+If you have any questions, suggestions, or would like to get in touch with me, please don't hesitate to reach out via [email address] or through my [LinkedIn](https://www.linkedin.com/in/niladri1) profile.
 
 Thank you for visiting this repository, and I hope you find it valuable for your coding journey and interview preparations!
